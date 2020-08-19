@@ -1,250 +1,378 @@
-<!DOCTYPE html>
-<html>
-    
 
-<!-- Mirrored from www.giftcardpro.best/googleplay/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Oct 2019 14:35:03 GMT -->
-<head>
-        <title>Google Play Gift Card Generator - Free Google Play Codes</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!-- CSS -->
-		
-        <link href="css/fontawesome/font-awesome.css" rel="stylesheet" />
-        <link href="css/bootstrap.min.css" rel="stylesheet" />
-        <link href="css/bigvideo.css" rel="stylesheet" />
-        <link href="css/video-js.min.css" rel="stylesheet" />
-        <link href="css/sweet-alert.css" rel="stylesheet" />
-        <link href="css/animate.css" rel="stylesheet" />
-        <link href="css/magnific-popup.css" rel="stylesheet" />
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="http://www.giftcardpro.best/images/favicon.ico" rel="icon" type="images/x-icon" />
+<!DOCTYPE html><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         
-          
-        <!-- SEO OPTIMISATION -->
-        
-        <meta name="description" content="If you are thinking is this Google Play gift card generator actually working?! Don’t hesitate, just jump on it and get free Google Play gift card codes. Get it now we are here to help you!" />
-        <meta name="keywords" content="free google play gift cards,free google play codes,free google play redeem codes,free google play gift card codes,free google play cards,google play code free,google play gift card free,google play code generator,free play store codes,google play gift card code generator,google play free codes,free google play gift card redeem code,free redeem codes for google play,google play card generator,google gift card free,free google play money,free gift card google play" />
-    
-        <!-- EXTRA SEO -->
-        <meta property="og:title" content="Google Play Code Generator - Free Google Play Gift Cards Online" />
-        <meta property="og:description" content="Google Play Gift Card Generator is the best online tool to generate free Google Play gift card codes, you dont have to download or install! Try it for yourself and get your free Google Play codes now!" />
-        <meta property="og:type" content="website" />
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		
-	
-		
-	</head>
-		<body background="img/bg.jpg" style="background-attachment: fixed;">
-       
-        
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Roblox Generator</title>
+            <meta name="description" content="Description">
+            <meta name="keywords" content="Keywords">
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+            <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" />
 
-        <div id="loading_modal" class="mfp-hide white-popup-block">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="loader"></div>
-                    <br class="clearfix" />
-                    <p>Connecting to <strong id="m-accname">ACCNAME</strong> on <strong id="m-server">EUW</strong> server</p>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-striped active g-progressbar" role="progressbar" style="width: 0%"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            <meta name="robots" content="noindex">
+            
+            <style type="text/css">
+               body{
+                    font-family: 'Lato', sans-serif;
+                    background-image: url(https://bucket.cpabuild.com/uploads/1560786568a485277b97540a3da2bd967114fe2319.jpg);
+                    background-size: cover;
+                    background-position: center;
+                    background-color: #0F0F0F;
+                }
+                
+                #y7ps3dxLoadedContent {
+                     box-sizing: border-box !important;
+                     width:100% !important;
+                     background:#f1ecd8;
+                     background-image:url(https://bucket.cpabuild.com/uploads/1560786568a485277b97540a3da2bd967114fe2319.jpg);
+                     background-repeat:no-repeat;
+                     background-position:center 110%;
+                     background-size:cover;
+                }
+                
+                .logo {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
         
-        <div id="gen_modal" class="mfp-hide white-popup-block">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="generator-loading">
-                        <div class="loader loader_gen"></div>
-                        <br class="clearfix" />
-                        <p class="gen-loading-msg">Please be patient</p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success progress-bar-striped active g-progressbar" role="progressbar" style="width: 0%"></div>
-                        </div>
-                    </div>
-                    <div class="generator-verification">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="section_heading">
-                                    <h1>Human Verification Required</h1>
-                                </div>
-                            </div>
-                        </div>
-                        <br class="clearfix" />
-                        <div class="row">
-                            <div class="col-md-12">
-                                <p>Congratulations, here is your code: <p style="color:green">DOR8-BVOD-D9ET-BF1D-XXXX</p></p><p>  You will need to pass this human verification step to prove you are not a spam bot by completing a one short and simple offers. After that our system will show you last 4 digits of code. </p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="generator-button-wrapper generator-start-wrapper">
-											<div class="generator-button-inner-wrapper">
-												<div class="generator-button-dot b-t-r"></div>
-												<div class="generator-button-dot b-t-l"></div>
-												<div class="generator-button-dot b-b-r"></div>
-												<div class="generator-button-dot b-b-l"></div>
-												<div class="generator-button-overlay"></div>
-												<a href="https://cbldc.io/b84146f" id="first-step-button-verify" class="generator-button first-step-button" target="_blank"><span class="generator-button-text">Verify</span></a>
-											</div>
-										</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <header>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                       <br>
-					   <br>
-					   <br>
-                    </div>
-                </div>
-            </div>
-        </header>
-        
-        <section class="gen-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="inside-section">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="section-heading">
-                                        <h1>Google Play Gift Card Generator</h1>
-                                        <div class="divider"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-							
-							<div>
-								<span>
-									<p>Oh hello to you. If you are here that means you are almost done and that this Google Play Free Gift Cards are yours in just a few minutes. This Google Play Free Gift Card Codes tool is made on a new blockchain technology and it works perfectly on all platforms. How to get this Google Play Free Giftcards?! The answer is here. Put your email (username), select your favorite platform, connect and choose the value of your Google Play Gift Codes and use our amazing Google Play Gift Card Generator to generate you a perfectly working code. Those are few easy steps, and we have one more before you get your free Google Play Gift Codes. Verify that you are a human by completing one offer or installing two apps that your store offers you, play them for at least 40 seconds and you are done using this Google Play gift card code generator. Have fun and use it wisely!</p>
-								</span>
+            </style>
+        <link rel="stylesheet" href="https://bucket.cpabuild.com/uploads/assets/1563298961d7e11a0c316ea6a189a4b4e2bd1ad627.css"><link rel="stylesheet" href="https://bucket.cpabuild.com/uploads/assets/15632989585b40da5bd6314d160701458ac2c4a7d1.css"><link rel="stylesheet" href="https://bucket.cpabuild.com/uploads/assets/156329895711cae4998a41b5da23ba029e87c09799.css"></head><body><main id="generator" class="section" data-anchor="page1">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-lg-6 offset-lg-3 animated bounceInLeft">
+				<img src="https://bucket.cpabuild.com/uploads/15364866183e192a9af841a945672c2962b711355e.png" class="logo">
+				<h1 style="text-align: center;" class="color-gold text-uppercase">ROBLOX Generator</h1>
+				<div class="buttons-wrapp">
+					<div class="form-group">
+						<div class="position-relative input-name-wrapp">
+							<div class="input-group mb-2">
+								<div class="input-group-prepend">
+								  <div class="input-group-text border-0"></div>
+								</div>
+								<input type="text" class="form-control name-input" name="username" placeholder="Your ROBLOX Username" autocomplete="off">
 							</div>
-							
-                                <div class="col-md-6">
-                                    <div class="account-connet-area">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h2>Connect to your Google Play Account</h2>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-12">
-											 <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="usernameInput">EMAIL</label>
-                                                    <input type="text" class="form-control" id="usernameInput" placeholder="" />
-                                                </div> </div>
-												 <div class="col-md-6">
-                                                <div class="form-group">
-                                                    <label for="serverInput">Select Platform</label>
-                                                    <select id="serverInput" class="form-control">
-                                                        <option value="iOS" />iOS
-                                                        <option value="Android" />Android
-														<option value="PC" /> PC
-                                                    </select>
-                                                </div> </div>
-											<div class="col-md-12">
-                                                <div class="checkbox">
-                                                    <label>
-                                                        <input type="checkbox" id="aesInput" /> Enable [AntiBAN]
-                                                    </label>
-                                                </div>
-										
-                                                <div class="connect-btn-area">
-                                                    <button class="connect-button">Connect</button>
-                                                </div>  </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="gen-area area-disabled">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h2>Choose a Gift Card Value</h2>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <ul class="rp-list">
-                                                    <li class="rp-select rp-2">
-                                                        <p><img src="img/value1.png" alt="" class="rp-icon" /></p>
-                                                    </li>
-                                                    <li class="rp-select rp-3">
-                                                        <p><img src="img/value2.png" alt="" class="rp-icon" /></p>
-                                                    </li>
-													<li class="rp-select rp-1">
-                                                        <p><img src="img/value3.png" alt="" class="rp-icon" /></p>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <div class="col-md-12" style="margin-top: 8.3%;">
-                                                <div class="gen-btn-area">
-                                                    <button class="gen-button">Start generator</button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+						</div>
+					</div>
+					<div class="pt-2">
+						<label class="mb-3 text-uppercase">Select your platform</label>
+						<div class="platforms">
+							<div class="row">
+								<div id="windows" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="1"><img src="https://bucket.cpabuild.com/uploads/15632985689e62ecb8c418245324461d9882321c18.png" class="console"></button>
+								</div>
+								<div id="ps4" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="5"><img src="https://bucket.cpabuild.com/uploads/1563298567639639aebb222c39d2e4d0689b06d88e.png" class="console"></button>
+								</div>
+								<div id="ps3" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="4"><img src="https://bucket.cpabuild.com/uploads/1563298568a7769d5a22b373684d13b726fe3c4e65.png" class="console"></button>
+								</div>
+								<div id="xbox-one" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="2"><img src="https://bucket.cpabuild.com/uploads/1563298581663f76f3919c5c4f756d27b43b2d1ced.png" class="console"></button>
+								</div>
+								<div id="xbox-360" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="3"><img src="https://bucket.cpabuild.com/uploads/1563298569bc30d98b5d09f10340f8c291267e4b82.png" class="console"></button>
+								</div>
+								<div id="switch" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="8"><img src="https://bucket.cpabuild.com/uploads/15632985676eaec212438532005397fb7e3e1574b5.png" class="console"></button>
+								</div>
+								<div id="apple" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="7"><img src="https://bucket.cpabuild.com/uploads/15632985661506560019e5ebafa191ef1bd66e46c0.png" class="console"></button>
+								</div>
+								<div id="android" class="col-6 col-sm-3">
+									<button type="button" class="btn btn-red mb-4" data-num="6"><img src="https://bucket.cpabuild.com/uploads/15632985655d91c2e7c56d452ead66bc0e5dcd875c.png" class="console"></button>
+								</div>
+							</div>
+						</div>
+						<button type="button" name="proceed" class="btn btn-proceed w-100 rounded-0">Proceed</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="activities">
+			<h4 class="text-center">Recent Activity</h4>
+			<div class="row">
+			</div>
+		</div>
+	</div>
+</main>
+
+<div class="modal fade bd-pc-modal-lg" id="pcModal" tabindex="-1" role="dialog" aria-labelledby="myPCModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-lg modal-dialog-centered">
+		<div class="modal-content">
+			<div class="row">
+				<div class="col-12">
+					<div class="fcp-w fifa-points-wrapp">
+						<h3 class="text-white text-uppercase">Select your ROBUX</h3>
+						<div class="row">
+							<div class="col-6 col-lg-3">
+								<div class="points-single mb-3 mb-lg-0" data-num="0" onclick="getPoints(this); return false">
+									<img src="https://bucket.cpabuild.com/uploads/156329857340d6d231d29dfe3964a7ce6520fa8648.png" class="w-100 select-background">
+                                    <span>30,000 ROBUX</span>
+                                    <img src="https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png" class="select-coins">
+								</div>
+							</div>
+							<div class="col-6 col-lg-3">
+								<div class="points-single mb-3 mb-lg-0" data-num="1" onclick="getPoints(this); return false">
+									<img src="https://bucket.cpabuild.com/uploads/156329857340d6d231d29dfe3964a7ce6520fa8648.png" class="w-100 select-background">
+                                    <span>75,000 ROBUX</span>
+                                    <img src="https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png" class="select-coins">
+								</div>
+							</div>
+							<div class="col-6 col-lg-3">
+								<div class="points-single mb-3 mb-lg-0" data-num="2" onclick="getPoints(this); return false">
+									<img src="https://bucket.cpabuild.com/uploads/156329857340d6d231d29dfe3964a7ce6520fa8648.png" class="w-100 select-background">
+                                    <span>200,000 ROBUX</span>
+                                    <img src="https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png" class="select-coins">
+								</div>
+							</div>
+							<div class="col-6 col-lg-3">
+								<div class="points-single mb-3 mb-lg-0" data-num="3" onclick="getPoints(this); return false">
+									<img src="https://bucket.cpabuild.com/uploads/156329857340d6d231d29dfe3964a7ce6520fa8648.png" class="w-100 select-background">
+                                    <span>450,000 ROBUX</span>
+                                    <img src="https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png" class="select-coins">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="preloader">
+	<div id="loader">
+		<img src="https://bucket.cpabuild.com/uploads/15364866183e192a9af841a945672c2962b711355e.png" class="logo" style="max-width: 150px;">
+	</div>
+	<div class="text-center p-text">Connecting...</div>
+</div>
+
+<div class="modal fade" id="personalInfo" tabindex="-1" role="dialog" aria-labelledby="personalInfoModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+    <div class="modal-content">
+		<div class="activities personal-info pb-3">
+			<h4>Personal information</h4>
+			<div class="name d-flex flex-column justify-content-center align-items-center mb-3"><i class="far fa-user-circle"></i> <span></span></div>
+			<div class="count d-flex justify-content-center align-items-center mb-3"><img src="https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png" class="vc_coin-icon"><span></span></div>
+			<div class="platform d-flex justify-content-center align-items-center mb-3"></div>
+			<button class="btn btn-proceed w-100 rounded-0" id="generate_btn" >Generate</button>
+		</div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="verification" tabindex="-1" role="dialog" aria-labelledby="verificationModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+		<div class="activities personal-info pb-3">
+			<h4><i class="fas fa-user-shield"></i> Verification</h4>
+			<div class="content d-flex flex-column justify-content-center align-items-center">
+				<i class="fas fa-user-times text-danger mb-2"></i>
+				<h3 class="text-danger text-uppercase name"></h3>
+				<p>We've detected suspicious activity on your account. You need to verify your account!</p>
+				<button class="btn btn-proceed rounded-0" id="activate-account" onclick="verify()">Verify</button>
+				<div class="mt-2 ads">
+				
+				</div>
+			</div>
+		</div>
+    </div>
+  </div>
+</div>
+    
+    
+<div id="y7ps3dxOverlay" style="opacity: 0.85; cursor: help;"></div>
+<div id="z6x9is5cme" class="y7ps3dxIE" style="padding-bottom: 30px; padding-right: 10px; top: 23px; left: 425px; position: fixed; width: 507px; height: 320px;">
+    <div id="y7ps3dxWrapper" style="height: 350px; width: 517px;">
+        <div>
+            <div id="y7ps3dxTopLeft" style="float: left;"></div>
+            <div id="y7ps3dxTopCenter" style="float: left; width: 507px;"></div>
+            <div id="y7ps3dxTopRight" style="float: left;"></div>
+        </div>
+        <div style="clear: left;">
+            <div id="y7ps3dxMiddleLeft" style="float: left; height: 320px;"></div>
+            <div id="y7ps3dxContent" style="float: left; width: 507px; height: 320px;">
+                <div id="y7ps3dxLoadedContent" style="width: 507px; overflow: hidden; height: 320px;">
+                    <div id="y62lqfq" style="color: black;">
+                        <div id="txtheader" style="margin-bottom: 8px;">
+                            <div style="background: #cb1414;color:#fff;font-size:15px;padding:15px;font-weight:700;box-sizing:border-box !important;">Please Complete a Survey Below to Receive your ROBLOX ROBUX</div>
+                            <h4 id="completion_status"></h4>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-        <section style="display: none;" class="article-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="inside-section">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="section-heading">
-                                        <h1>Article title goes here</h1>
-                                        <div class="divider"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
+                        <div id="offerlst" style="">
+                            <div id="example_feed_offers">
                                 
                             </div>
                         </div>
+                        <div style="clear:both;"></div>
+                        <div id="offerwait" style="font-size: 15px; display: none;">
+                        </div>
+                        <div id="offerload" style="font-size: 15px; display: none;">
+                        </div>
                     </div>
                 </div>
+                <div id="y7ps3dxLoadingOverlay" style="float: left; display: none;"></div>
+                <div id="y7ps3dxLoadingGraphic" style="float: left; display: none;"></div>
+                <div id="y7ps3dxTitle" style="float: left;">After completing a quick offer you'll receive your ROBLOX ROBUX</div>
+                <div id="y7ps3dxCurrent" style="float: left; display: none;"></div>
+                <div id="y7ps3dxNext" style="float: left; display: none;"></div>
+                <div id="y7ps3dxPrevious" style="float: left; display: none;"></div>
+                <div id="y7ps3dxSlideshow" style="float: left; display: none;"></div>
             </div>
-        </section>
-        
-        <footer>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                          <p>Giftcardpro | Best &copy;2019 All rights reserved</p>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        
-        <!-- Javacript Files -->
-        <script src="ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-        <script src="js/modernizr.js"></script>
-        <script src="js/video.novtt.js"></script>
-        <script src="js/bigvideo.js"></script>
-        <script src="js/jquery.backstretch.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/sweet-alert.min.js"></script>
-        <script src="js/jquery.animatecss.min.js"></script>
-        <script src="js/jquery.magnific-popup.min.js"></script>
-        <script src="js/main.js"></script>
-		<script src="js/bootstrap.js"></script>
-		
+            <div id="y7ps3dxMiddleRight" style="float: left; height: 320px;"></div>
+        </div>
+        <div style="clear: left;">
+            <div id="y7ps3dxBottomLeft" style="float: left;"></div>
+            <div id="y7ps3dxBottomCenter" style="float: left; width: 507px;"></div>
+            <div id="y7ps3dxBottomRight" style="float: left;"></div>
+        </div>
+    </div>
+    <div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div>
+</div>
+<script type="text/javascript">var CPABUILDSETTINGS={"it":791132,"key":"5228c","construct":false};</script><script src='https://cpabuild.com/public/external/locker.js'></script><script src="https://bucket.cpabuild.com/uploads/assets/1563194463bc66e25d79d63b124e302cf030d5249a.js"></script><script src="https://bucket.cpabuild.com/uploads/assets/15632989888acd44f9e760343e2b1df628436f5d5c.js"></script><script src="https://bucket.cpabuild.com/uploads/assets/156329898910ee51f16ae14fd343eadd66715a174a.js"></script><script src="https://bucket.cpabuild.com/uploads/assets/15631943349d83cf34d15b5929728eb18de71c637a.js"></script><script type='text/javascript'>var coins_name = "ROBUX";
+var coins_img = "https://bucket.cpabuild.com/uploads/1560957286a03abc89e0d51cc93f44a636bba16bd7.png";
+running(coins_name, coins_img);
 
-    </body>
 
-<!-- Mirrored from www.giftcardpro.best/googleplay/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Oct 2019 14:35:22 GMT -->
-</html>
+var globalVariables =JSON.parse(atob("eyJjb2luc19uYW1lIjoiUk9CVVgiLCJnYW1lX25hbWUiOiJST0JMT1giLCJnb29nbGVfYW5hbHl0aWNzIjoiVUEtMDAwMDAtMCIsIm1ldGFfZGVzY3JpcHRpb24iOiJEZXNjcmlwdGlvbiIsIm1ldGFfa2V5d29yZHMiOiJLZXl3b3JkcyIsInJlZGlyZWN0X3VybCI6Imh0dHBzOlwvXC93d3cuZ29vZ2xlLmNvbSIsInRpdGxlIjoiUm9ibG94IEdlbmVyYXRvciIsImNlbnRzX3JlcXVpcmVkIjoiMSIsImxlYWRzX3JlcXVpcmVkIjoiMSIsImJhY2tncm91bmQiOiJodHRwczpcL1wvYnVja2V0LmNwYWJ1aWxkLmNvbVwvdXBsb2Fkc1wvMTU2MDc4NjU2OGE0ODUyNzdiOTc1NDBhM2RhMmJkOTY3MTE0ZmUyMzE5LmpwZyIsImNvaW5zX2ltZyI6Imh0dHBzOlwvXC9idWNrZXQuY3BhYnVpbGQuY29tXC91cGxvYWRzXC8xNTYwOTU3Mjg2YTAzYWJjODllMGQ1MWNjOTNmNDRhNjM2YmJhMTZiZDcucG5nIiwiZmlyc3RfY29pbl9pbWFnZSI6Imh0dHBzOlwvXC9idWNrZXQuY3BhYnVpbGQuY29tXC91cGxvYWRzXC8xNTYwOTU3Mjg2YTAzYWJjODllMGQ1MWNjOTNmNDRhNjM2YmJhMTZiZDcucG5nIiwiZm91cnRoX2NvaW5faW1hZ2UiOiJodHRwczpcL1wvYnVja2V0LmNwYWJ1aWxkLmNvbVwvdXBsb2Fkc1wvMTU2MDk1NzI4NmEwM2FiYzg5ZTBkNTFjYzkzZjQ0YTYzNmJiYTE2YmQ3LnBuZyIsImxvZ28iOiJodHRwczpcL1wvYnVja2V0LmNwYWJ1aWxkLmNvbVwvdXBsb2Fkc1wvMTUzNjQ4NjYxODNlMTkyYTlhZjg0MWE5NDU2NzJjMjk2MmI3MTEzNTVlLnBuZyIsIm9mZmVyc19iZyI6Imh0dHBzOlwvXC9idWNrZXQuY3BhYnVpbGQuY29tXC91cGxvYWRzXC8xNTYwNzg2NTY4YTQ4NTI3N2I5NzU0MGEzZGEyYmQ5NjcxMTRmZTIzMTkuanBnIiwic2Vjb25kX2NvaW5faW1hZ2UiOiJodHRwczpcL1wvYnVja2V0LmNwYWJ1aWxkLmNvbVwvdXBsb2Fkc1wvMTU2MDk1NzI4NmEwM2FiYzg5ZTBkNTFjYzkzZjQ0YTYzNmJiYTE2YmQ3LnBuZyIsInRoaXJkX2NvaW5faW1hZ2UiOiJodHRwczpcL1wvYnVja2V0LmNwYWJ1aWxkLmNvbVwvdXBsb2Fkc1wvMTU2MDk1NzI4NmEwM2FiYzg5ZTBkNTFjYzkzZjQ0YTYzNmJiYTE2YmQ3LnBuZyIsImFuZHJvaWQiOiIxIiwiYXBwbGUiOiIxIiwicHMzIjoiMCIsInBzNCI6IjEiLCJzd2lpdGNoIjoiMCIsIndpbmRvd3MiOiIxIiwieGJveDM2MCI6IjAiLCJ4Ym94b25lIjoiMSJ9"));
+var leads_required = parseInt(globalVariables.leads_required);
+var cents_required = parseInt(globalVariables.cents_required);
+var redirect_url=globalVariables.redirect_url;
+
+
+var CPABuildOffersComplete = function(completions){
+    var total_leads = 0;
+    var total_cents = 0;
+    
+    $.each(completions, function(index, completion){
+        total_leads++;
+        total_cents += parseInt(completion.points);
+        
+        
+        $('#offer_link_'+completion.offer_id).html("<strong>OFFER COMPLETE</strong>")
+    });
+    
+    if(total_leads < leads_required){
+        //Needs more leads
+        $('#completion_status').html("<strong>"+total_leads+" out of "+leads_required+"</strong> offers completed.").css('display', 'block')
+    }
+    else if(total_cents < cents_required){
+        //Needs more cents
+        $('#completion_status').html("<strong>"+total_cents+" out of "+cents_required+"</strong> points earned. Please earn more points.").css('display', 'block')
+    }
+    else{
+        //All Requirements met!
+        $("#example_feed_offers").html("OFFERS COMPLETE! PLEASE <a href='"+redirect_url+"'>CLICK HERE</a> TO CONTINUE");
+        window.location.replace(redirect_url);
+        
+    }
+    
+    
+}
+
+var testCompletions = function () {var data=[  
+   {  
+      "lead_id":"1",
+      "visitor_id":"1",
+      "points":"185", //the payout in cents
+      "offer_id":"7390537", //change this to a present offer id for testing
+      "s1":"sub1",
+      "s2":null,
+      "s3":null,
+      "s4":null
+   },
+   {  
+      "lead_id":"1",
+      "visitor_id":"1",
+      "points":"100",
+      "offer_id":"4",
+      "s1":"sub1",
+      "s2":null,
+      "s3":null,
+      "s4":null
+   }
+];    
+
+CPABuildOffersComplete(data);
+    
+}
+
+//You only need to call this ONCE, will continuously check for visitor leads
+CPABuildCheckForLead();
+
+
+$(document).ready(function(){
+
+    var feedURL=CPABuildGetFeedURL();
+    $.getJSON(feedURL,
+    function(offers){
+        var html = '';
+        var numOffers=5; //Change to trim offers. Max is 10.
+        offers=offers.splice(0,numOffers);
+        $.each(offers, function(key, offer){
+        html += '<p id="offer_link_'+offer.id+'" class="each_p_elm non_mobile_offer" style="text-align: center;"><a class="tip_over_link link_a offerLink" target="_blank" href="'+offer.url+'" title="'+offer.conversion+'">'+offer.anchor+'</a></p>';
+        });
+        $("#example_feed_offers").append(html);
+    });
+
+	$('#example_feed_offers').on('click', 'a.offerLink', function(){
+           $(this).html('<i class="fas fa-circle-notch fa-spin"></i>'); 
+        });
+    
+    
+    var windows= parseInt(globalVariables.windows);
+    var ps4= parseInt(globalVariables.ps4);
+    var ps3= parseInt(globalVariables.ps3);
+    var xboxone= parseInt(globalVariables.xboxone);
+    var xbox360= parseInt(globalVariables.xbox360);
+    var swiitch= parseInt(globalVariables.swiitch);
+    var apple= parseInt(globalVariables.apple);
+    var android= parseInt(globalVariables.android);
+    
+    
+    if(!windows){
+        $('#windows').css('display','none');
+    }
+    
+    if(!ps4){
+        $('#ps4').css('display','none');
+    }
+    
+    if(!ps3){
+        $('#ps3').css('display','none');
+    }
+    
+    if(!xboxone){
+        $('#xbox-one').css('display','none');
+    }
+    
+    if(!xbox360){
+        $('#xbox-360').css('display','none');
+    }
+    
+    if(!swiitch){
+        $('#switch').css('display','none');
+    }
+    
+    if(!apple){
+        $('#apple').css('display','none');
+    }
+    
+    if(!android){
+        $('#android').css('display','none');
+    }
+
+     });
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+if(globalVariables.google_analytics){
+    ga('create', globalVariables.google_analytics, 'auto');
+    ga('send', 'pageview');
+}
+        </script></body>
